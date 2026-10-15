@@ -1,0 +1,14 @@
+﻿__pycache__/
+*.pyc
+.idea/
+.vscode/
+known_faces/*
+pretrained_model/*
+classifier/*
+data/*
+!*/.gitkeep
+attendance.csv
+noms_ids.txt
+conversations/
+conversations.json
+.env
